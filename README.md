@@ -18,7 +18,7 @@ css
 - Responsive Netflix-like UI  
 - Movie cards layout  
 - Hover effects on movie posters  
-- Clean and modern design  
+- Clean and distinct design  
 
 ## 📸 Screenshots
 
